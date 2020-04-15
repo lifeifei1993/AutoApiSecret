@@ -7,12 +7,7 @@ import json,sys,time
 #mail:  Mail.Read、Mail.ReadWrite、MailboxSettings.Read、MailboxSettings.ReadWrite
 #注册后一定要再点代表xxx授予管理员同意,否则outlook api无法调用
 
-###################################################################
-#在下方单引号内填入应用id                                         #
-id=r'4bdd9a4e-492d-42f7-83d3-e84f4e3ac1b5'                         
-#在下方单引号内填入应用秘钥                                       #
-secret=r'B/JAduLUVfAN/9Gq1:16=r5A9Y3[j9N4'                        
-###################################################################
+
 
 
 
